@@ -1,4 +1,3 @@
-rm(list=ls())
 Sys.setlocale("LC_TIME", "no_NB") # Winows
 Sys.setlocale(locale="no_NO") # Mac OSX
 options(encoding = "UTF-8")
